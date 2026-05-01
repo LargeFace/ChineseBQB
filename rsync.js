@@ -51,7 +51,7 @@ async function update_data() {
         }
       )
       .source(path.join(__dirname))
-      .destination("root@v2fy.com:" + target_path);
+      .destination("root@fangyuanxiaozhan.com:" + target_path);
 
     // Execute the command
     rsync.execute(function(error, code, cmd) {
