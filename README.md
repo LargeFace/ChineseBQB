@@ -15,7 +15,6 @@
 
 #### 本项目Github永久开源地址: [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 
-## 友情链接：[《更纯粹的程序员梗图仓库：程序员梗图火炬》](https://github.com/zhaoolee/xiaohongshu-programmer-memes)
 
 
 ## [《ChineseBQB 在线搜图斗图工具》](https://v2fy.com/asset/0i/ChineseBQB/)
@@ -173,7 +172,7 @@
 | <img height='100px' style='height:100px;' src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/000000002.gif' /> | [002CuteGirl_可爱的女孩纸👧BQB(已收录185张)](https://v2fy.com/p/002CuteGirl_可爱的女孩纸👧BQB/?post_category=中国人的表情包-pp制造计划-chinesebqb) | [直链下载](https://github.com/zhaoolee/ChineseBQB/raw/master/002CuteGirl_可爱的女孩纸👧BQB.zip) |
 | <img height='100px' style='height:100px;' src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/000000001.gif' /> | [001Funny_滑稽大佬😏BQB(已收录125张)](https://v2fy.com/p/001Funny_滑稽大佬😏BQB/?post_category=中国人的表情包-pp制造计划-chinesebqb) | [直链下载](https://github.com/zhaoolee/ChineseBQB/raw/master/001Funny_滑稽大佬😏BQB.zip) |
 | <img height='100px' style='height:100px;' src='https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/000000000.gif' /> | [000Contribution_贡献🇨🇳BQB(已收录57张)](https://v2fy.com/p/000Contribution_贡献🇨🇳BQB/?post_category=中国人的表情包-pp制造计划-chinesebqb) | [直链下载](https://github.com/zhaoolee/ChineseBQB/raw/master/000Contribution_贡献🇨🇳BQB.zip) |
-> 数据生成时间: 2025-08-30
+> 数据生成时间: 2026-05-01
 
 BQBEND
 
